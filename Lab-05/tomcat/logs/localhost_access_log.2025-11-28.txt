@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [28/Nov/2025:14:34:57 +0300] "GET /WebServletV3/hierlist HTTP/1.1" 200 1219
+0:0:0:0:0:0:0:1 - - [28/Nov/2025:14:34:57 +0300] "GET /WebServletV3/static/scripts.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Nov/2025:14:34:57 +0300] "GET /WebServletV3/static/style.css HTTP/1.1" 304 -

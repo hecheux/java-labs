@@ -1,0 +1,47 @@
+27-Nov-2025 11:09:02.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/9.0.112
+27-Nov-2025 11:09:02.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 07:46:18 UTC
+27-Nov-2025 11:09:02.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  9.0.112.0
+27-Nov-2025 11:09:02.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+27-Nov-2025 11:09:02.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             15.6.1
+27-Nov-2025 11:09:02.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+27-Nov-2025 11:09:02.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/plushavey/Library/Java/JavaVirtualMachines/corretto-23.0.2/Contents/Home
+27-Nov-2025 11:09:02.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            23.0.2+7-FR
+27-Nov-2025 11:09:02.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Amazon.com Inc.
+27-Nov-2025 11:09:02.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat
+27-Nov-2025 11:09:02.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat
+27-Nov-2025 11:09:02.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Nov-2025 11:09:02.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+27-Nov-2025 11:09:02.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+27-Nov-2025 11:09:02.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/conf/logging.properties
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat
+27-Nov-2025 11:09:02.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/temp
+27-Nov-2025 11:09:02.021 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/plushavey/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+27-Nov-2025 11:09:02.189 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+27-Nov-2025 11:09:02.202 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [288] milliseconds
+27-Nov-2025 11:09:02.220 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2025 11:09:02.220 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.112]
+27-Nov-2025 11:09:02.228 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/WebServletV3.war]
+27-Nov-2025 11:09:02.374 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/WebServletV3.war] has finished in [145] ms
+27-Nov-2025 11:09:02.375 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/docs]
+27-Nov-2025 11:09:02.387 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/docs] has finished in [12] ms
+27-Nov-2025 11:09:02.388 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/manager]
+27-Nov-2025 11:09:02.404 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/manager] has finished in [16] ms
+27-Nov-2025 11:09:02.404 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/examples]
+27-Nov-2025 11:09:02.509 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/examples] has finished in [105] ms
+27-Nov-2025 11:09:02.509 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/ROOT]
+27-Nov-2025 11:09:02.517 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/ROOT] has finished in [8] ms
+27-Nov-2025 11:09:02.517 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/host-manager]
+27-Nov-2025 11:09:02.526 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV3/tomcat/webapps/host-manager] has finished in [9] ms
+27-Nov-2025 11:09:02.527 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Nov-2025 11:09:02.531 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [329] milliseconds

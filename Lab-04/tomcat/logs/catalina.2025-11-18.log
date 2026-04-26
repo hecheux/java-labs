@@ -1,0 +1,52 @@
+18-Nov-2025 11:04:13.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/9.0.112
+18-Nov-2025 11:04:13.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 07:46:18 UTC
+18-Nov-2025 11:04:13.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  9.0.112.0
+18-Nov-2025 11:04:13.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+18-Nov-2025 11:04:13.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             15.6.1
+18-Nov-2025 11:04:13.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+18-Nov-2025 11:04:13.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/plushavey/Library/Java/JavaVirtualMachines/corretto-23.0.2/Contents/Home
+18-Nov-2025 11:04:13.010 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            23.0.2+7-FR
+18-Nov-2025 11:04:13.010 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Amazon.com Inc.
+18-Nov-2025 11:04:13.010 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat
+18-Nov-2025 11:04:13.010 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat
+18-Nov-2025 11:04:13.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Nov-2025 11:04:13.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+18-Nov-2025 11:04:13.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+18-Nov-2025 11:04:13.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Nov-2025 11:04:13.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+18-Nov-2025 11:04:13.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/conf/logging.properties
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat
+18-Nov-2025 11:04:13.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/temp
+18-Nov-2025 11:04:13.029 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/plushavey/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+18-Nov-2025 11:04:13.202 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+18-Nov-2025 11:04:13.221 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [322] milliseconds
+18-Nov-2025 11:04:13.240 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Nov-2025 11:04:13.240 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.112]
+18-Nov-2025 11:04:13.248 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/WebServletV2.war]
+18-Nov-2025 11:04:13.404 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/WebServletV2.war] has finished in [154] ms
+18-Nov-2025 11:04:13.405 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/docs]
+18-Nov-2025 11:04:13.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/docs] has finished in [12] ms
+18-Nov-2025 11:04:13.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/manager]
+18-Nov-2025 11:04:13.434 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/manager] has finished in [17] ms
+18-Nov-2025 11:04:13.434 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/examples]
+18-Nov-2025 11:04:13.536 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/examples] has finished in [102] ms
+18-Nov-2025 11:04:13.536 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/ROOT]
+18-Nov-2025 11:04:13.544 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/ROOT] has finished in [8] ms
+18-Nov-2025 11:04:13.544 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/host-manager]
+18-Nov-2025 11:04:13.553 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/plushavey/Desktop/TP_Projects/WebServletV2/tomcat/webapps/host-manager] has finished in [9] ms
+18-Nov-2025 11:04:13.555 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Nov-2025 11:04:13.559 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [337] milliseconds
+18-Nov-2025 11:09:16.028 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Nov-2025 11:09:16.029 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+18-Nov-2025 11:09:16.033 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Nov-2025 11:09:16.052 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+18-Nov-2025 11:09:16.059 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,33 @@
+29-Oct-2025 18:31:37.798 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Loaded 3 entries from file
+29-Oct-2025 18:31:37.798 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: PhoneBookServlet initialized. Data loaded from: /Users/plushavey/Desktop/TP_Projects/WebServlet/tomcat/webapps/phonebook-app/WEB-INF/phonebook.txt
+29-Oct-2025 18:31:37.934 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Oct-2025 18:31:37.934 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Oct-2025 18:31:37.934 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@43c67247')
+29-Oct-2025 18:32:27.954 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 18:32:53.652 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 18:34:49.952 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 18:35:02.217 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 20:31:19.420 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 20:31:19.420 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: PhoneBookServlet destroyed. Data saved.
+29-Oct-2025 20:31:19.422 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+29-Oct-2025 20:31:19.422 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+29-Oct-2025 20:38:02.778 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Loaded 5 entries from file
+29-Oct-2025 20:38:02.779 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: PhoneBookServlet initialized. Data loaded from: /Users/plushavey/Desktop/TP_Projects/WebServlet/tomcat/webapps/phonebook-app/WEB-INF/phonebook.txt
+29-Oct-2025 20:38:02.912 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Oct-2025 20:38:02.912 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Oct-2025 20:38:02.913 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@40bffbca')
+29-Oct-2025 20:56:18.459 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 20:56:18.459 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: PhoneBookServlet destroyed. Data saved.
+29-Oct-2025 20:56:18.461 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+29-Oct-2025 20:56:18.461 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+29-Oct-2025 20:57:38.328 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Loaded 0 entries from file
+29-Oct-2025 20:57:38.328 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: PhoneBookServlet initialized. Data loaded from: /Users/plushavey/Desktop/TP_Projects/WebServlet/tomcat/webapps/phonebook-app/WEB-INF/phonebook.txt
+29-Oct-2025 20:57:38.462 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Oct-2025 20:57:38.462 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Oct-2025 20:57:38.463 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7646731d')
+29-Oct-2025 20:58:38.758 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 20:58:58.533 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 20:59:17.842 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: Data saved to file
+29-Oct-2025 20:59:17.842 INFO [main] org.apache.catalina.core.ApplicationContext.log PhoneBookServlet: PhoneBookServlet destroyed. Data saved.
+29-Oct-2025 20:59:17.844 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+29-Oct-2025 20:59:17.844 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()

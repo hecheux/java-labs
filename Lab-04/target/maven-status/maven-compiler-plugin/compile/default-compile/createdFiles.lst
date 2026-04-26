@@ -1,0 +1,8 @@
+com/tpprojects/service/UserService.class
+com/tpprojects/servlets/AddAnnouncementServlet.class
+com/tpprojects/servlets/LogoutServlet.class
+com/tpprojects/servlets/LoginServlet.class
+com/tpprojects/service/AnnouncementService.class
+com/tpprojects/servlets/MainServlet.class
+com/tpprojects/model/User.class
+com/tpprojects/model/Announcement.class
